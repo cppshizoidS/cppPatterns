@@ -1,0 +1,2 @@
+# cppPatterns
+Learning of patterns
